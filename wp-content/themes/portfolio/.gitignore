@@ -1,0 +1,16 @@
+# ignore these
+twentynineteen/*
+twentyseventeen/*
+twentysixteen/*
+
+# dont ignore
+
+!portfolio/
+!portfolio/*/
+!portfolio/wp-content/
+!portfolio/wp-content/themes/
+!portfolio/wp-content/themes/*
+!portfolio/wp-content/themes/*/*
+!portfolio/wp-content/themes/*/*/*
+!portfolio/wp-content/themes/*/*/*/*
+!portfolio/wp-content/themes/*/*/*/*/*
